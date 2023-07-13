@@ -1,19 +1,29 @@
-
-- User faker from npm to create fake post data
-
-Model the following:
-- Users
-- Profiles
-- Posts
-- "liking"
-- "friending"
-- news feed
-
-
-Required: 
-- Signing in with facebook through passport.js
-
-Xtra:
-- Chat
-- Realtime updates of newsfeed and notifications
+✅ ❌ ⚠️ 🔴 🟠 🟡 🟢 ⚫ ⚪ 🔵
+________________________________________________
+                     TODO
+    🟢 - In Progress
+    🔴 - URGENT
+    🟠 - Medium Priority
+    🟡 - Low Priority
+    🔵 - Feature
+    ⚫ - Dropped Feature
+    ⚪ - Reminder
+    ✅ - Completed
+________________________________________________
+    Current Tasks
+    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    🔴 Create mongoDB database
+    🟡 User faker from npm to create fake post data
+    Model the following:
+    - Users
+    - Profiles
+    - Posts
+    - "liking"
+    - "friending"
+    - news feed
+    Required: 
+    - Signing in with facebook through passport.js
+    Xtra:
+    - Chat
+    - Realtime updates of newsfeed and notifications
 
