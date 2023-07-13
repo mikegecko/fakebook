@@ -1,0 +1,19 @@
+
+- User faker from npm to create fake post data
+
+Model the following:
+- Users
+- Profiles
+- Posts
+- "liking"
+- "friending"
+- news feed
+
+
+Required: 
+- Signing in with facebook through passport.js
+
+Xtra:
+- Chat
+- Realtime updates of newsfeed and notifications
+
